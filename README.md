@@ -11,6 +11,11 @@
 
 Me especializo en la resolución de problemas lógicos y la construcción de herramientas eficientes. Mi enfoque principal es el **AI-Augmented Development**, utilizando modelos de lenguaje avanzados para acelerar el desarrollo, realizar debugging preciso y garantizar la calidad del código.
 
+## 🚀 Proyectos Destacados
+* **[Sistema de Presupuestos Java](https://github.com/FacundoFranco18/sistema-presupuestos-java):** Aplicación lógica para automatizar cálculos de materiales y mano de obra en instalaciones técnicas.
+* **Landing Page de Servicios:** (Próximamente - HTML/CSS)
+
+
 ```java
 public class PerfilTecnico {
     public static void main(String[] args) {
@@ -20,6 +25,5 @@ public class PerfilTecnico {
         System.out.println("Capacidad de adaptación a cualquier stack tecnológico.");
     }
 }
-## 🚀 Proyectos Destacados
-* **[Sistema de Presupuestos Java](https://github.com/FacundoFranco18/sistema-presupuestos-java):** Aplicación lógica para automatizar cálculos de materiales y mano de obra en instalaciones técnicas.
-* **Landing Page de Servicios:** (Próximamente - HTML/CSS)
+
+
