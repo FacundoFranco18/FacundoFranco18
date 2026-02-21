@@ -20,3 +20,6 @@ public class PerfilTecnico {
         System.out.println("Capacidad de adaptación a cualquier stack tecnológico.");
     }
 }
+## 🚀 Proyectos Destacados
+* **[Sistema de Presupuestos Java](https://github.com/FacundoFranco18/sistema-presupuestos-java):** Aplicación lógica para automatizar cálculos de materiales y mano de obra en instalaciones técnicas.
+* **Landing Page de Servicios:** (Próximamente - HTML/CSS)
