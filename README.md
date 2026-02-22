@@ -14,7 +14,7 @@ Me especializo en la resolución de problemas lógicos y la construcción de her
 ## 🚀 Proyectos Destacados
 * **[Sistema de Presupuestos Java](https://github.com/FacundoFranco18/sistema-presupuestos-java):** Aplicación lógica para automatizar cálculos de materiales y mano de obra en instalaciones técnicas.
 * **Landing Page de Servicios:** (Próximamente - HTML/CSS)
-
+* **[Convertidor de Unidades](https://github.com/FacundoFranco18/convertidor-unidades-tecnicas):** Utilidad para cálculos rápidos de frigorías y conversión de medidas técnicas.
 
 ```java
 public class PerfilTecnico {
