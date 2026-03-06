@@ -17,13 +17,6 @@ Me especializo en la resolución de problemas lógicos y la construcción de her
 * **[Convertidor de Unidades](https://github.com/FacundoFranco18/convertidor-unidades-tecnicas):** Utilidad para cálculos rápidos de frigorías y conversión de medidas técnicas.
 
 ```java
-public class PerfilTecnico {
-    public static void main(String[] args) {
-        String[] stack = {"Java", "HTML/CSS", "AutoCAD", "IA Prompting"};
-        boolean aprendizajeAcelerado = true;
-        
-        System.out.println("Capacidad de adaptación a cualquier stack tecnológico.");
-    }
-}
+
 
 
